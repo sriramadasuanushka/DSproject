@@ -1,0 +1,12 @@
+Amit,AI1013
+Priya,AI104
+Rohan,AI105
+Anjali,AI106
+Karan,AI107
+Neha,AI108
+Vikram,AI109
+Pooja,AI110
+Arjun,AI111
+Meera,AI112
+MA,AI112
+RAJU,AI1011 
